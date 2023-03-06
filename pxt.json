@@ -1,0 +1,22 @@
+{
+    "name": "YFSonar",
+    "version": "0.1.2",
+    "description": "Yfrobot package for I2C Sonar Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/YFSonar-strings.json",
+        "_locales/zh-cn/YFSonar-jsdoc-strings.json",
+        "_locales/zh-tw/YFSonar-strings.json",
+        "_locales/zh-tw/YFSonar-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}

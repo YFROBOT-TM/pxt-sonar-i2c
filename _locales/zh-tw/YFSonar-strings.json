@@ -1,0 +1,4 @@
+{
+    "YFSonar.readSonar|block": "讀取距離(I2C)",
+    "{id:category}YFSonar": "I2C超聲波"
+}
